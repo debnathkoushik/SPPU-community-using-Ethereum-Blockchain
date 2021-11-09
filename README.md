@@ -1,0 +1,2 @@
+# SPPU-community-using-Ethereum-Blockchain
+A Java based web application consisting of three modules viz. student, teacher and admin which acts as a platform to connect students and teachers under a single roof and ease the communication between them by enabling them to share various academic activities like projects and other resources. Blockchain technology has been used for storing users' log in credentials. The platform uses AES 256 bit algorithm for encryption and SHA-1 &amp; SHA-256 for providing a secured platform.
